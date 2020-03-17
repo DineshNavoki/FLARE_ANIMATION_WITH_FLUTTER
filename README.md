@@ -1,6 +1,6 @@
 # flutter_hybrid
 
-A new Flutter application.
+Read complete article and steps how to configure flare in flutter project. visit on https://navoki.com/flare-animation-with-flutter/
 
 ## Getting Started
 
